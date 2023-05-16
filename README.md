@@ -1,3 +1,3 @@
-# Animal detection
+# Animal Classification
 
 Dataset Link: https://www.kaggle.com/datasets/alessiocorrado99/animals10
